@@ -11,7 +11,7 @@ Next.js is easy and powerful, it also allows creating API routes without the nee
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io) to create a new project:
 
 ```bash
-pnpm create next-app --example https://github.com/mauriciobraz/next.js-telegram-webapp your-app-name
+https://github.com/acmicpc0614/Next-Telegram-bot.git
 ```
 
 Now, clone the [`.env.example`](.env.example) file and rename it to `.env.local` and fill the variables with your own data.
